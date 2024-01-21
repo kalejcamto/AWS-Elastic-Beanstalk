@@ -16,7 +16,7 @@ This was my presentation in Cloud Architecture class about AWS Elastic Beanstalk
 
 ![image](https://github.com/kalejcamto/AWS-Elastic-Beanstalk/assets/101201140/4258934e-563d-4c96-a1b2-f6c1265892ab)
 
-[I made it a Youtube Video] (ttps://youtu.be/yLMRrfNX1Dg?si=5sOWNe0Ie1NSnIZf)
+[I made it a Youtube Video] (https://youtu.be/yLMRrfNX1Dg?si=5sOWNe0Ie1NSnIZf)
 
 ![image](https://github.com/kalejcamto/AWS-Elastic-Beanstalk/assets/101201140/89aa98f4-f1a8-4d60-8543-7a5aaa67ae50)
 
